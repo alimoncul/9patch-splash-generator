@@ -1,0 +1,24 @@
+{
+  "name": "9patch-splash-generator",
+  "version": "1.0.0",
+  "description": "Creates 9patch splash screens for Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimoncul/9patch-splash-generator.git"
+  },
+  "keywords": [
+    "node",
+    "9-patch",
+    "Android"
+  ],
+  "author": "Alim Öncül",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimoncul/9patch-splash-generator/issues"
+  },
+  "homepage": "https://github.com/alimoncul/9patch-splash-generator#readme"
+}
